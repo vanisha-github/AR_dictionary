@@ -97,7 +97,10 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+<<<<<<< HEAD
 
 
 #chatgpt
 .Ds_Store
+=======
+>>>>>>> 9b74a3712c10dbd000870c55e01aaa11d959fd9f
