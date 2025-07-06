@@ -1,0 +1,17 @@
+Library/Artifacts/28/280217c40edddcd60b980a7acb494c50 filter=lfs diff=lfs merge=lfs -text
+Assets/Textures/horse[[:space:]]t/horse_albedo.png filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.ptc.vuforia.engine@f26d20423488/Vuforia/Plugins/OSXUniversal/universal/libVuforiaEngine.dylib filter=lfs diff=lfs merge=lfs -text
+ARVR[[:space:]]animals/AR[[:space:]]project[[:space:]]GDSC_Data/sharedassets1.assets filter=lfs diff=lfs merge=lfs -text
+Assets/Textures/g0_baseColor.png filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Packages/com.ptc.vuforia.engine-10.28.4.tgz filter=lfs diff=lfs merge=lfs -text
+Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/local_aar_for_lint/release/out.aar filter=lfs diff=lfs merge=lfs -text
+ARVR[[:space:]]animals/AR[[:space:]]project[[:space:]]GDSC_Data/sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
+Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/assets/release/bin/Data/data.unity3d filter=lfs diff=lfs merge=lfs -text
+Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/compressed_assets/release/out/assets/bin/Data/data.unity3d.jar filter=lfs diff=lfs merge=lfs -text
+Assets/3D[[:space:]]animals/horsi_all2.obj filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.ptc.vuforia.engine@f26d20423488/Vuforia/Plugins/OSXUniversal/universal/LibVuforiaEngine.dylib filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/Win64/Data/sharedassets1.assets filter=lfs diff=lfs merge=lfs -text
+Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/6ecc589e390a5edcc37902a3bdeca702/transformed/out/assets/bin/Data/data.unity3d filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/Win64/Data/sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
+LFS_large_files/** filter=lfs diff=lfs merge=lfs -text

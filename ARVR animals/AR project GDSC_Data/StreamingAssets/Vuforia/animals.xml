@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="zebra" size="6.000000 3.992727" />
+    <ImageTarget name="vulture" size="6.000000 6.918660" />
+    <ImageTarget name="tiger" size="6.000000 6.000000" />
+    <ImageTarget name="snake" size="6.000000 3.992727" />
+    <ImageTarget name="rabbit" size="6.000000 7.425743" />
+    <ImageTarget name="panda" size="6.000000 6.000000" />
+    <ImageTarget name="octopus" size="6.000000 4.396946" />
+    <ImageTarget name="nile" size="6.000000 3.600000" />
+    <ImageTarget name="monkey" size="6.000000 3.692308" />
+    <ImageTarget name="lion" size="6.000000 3.612457" />
+    <ImageTarget name="kangaroo" size="6.000000 3.992727" />
+    <ImageTarget name="jaguar" size="6.000000 3.992727" />
+    <ImageTarget name="ibis" size="6.000000 4.494208" />
+    <ImageTarget name="giraffe" size="6.000000 3.360000" />
+    <ImageTarget name="fish" size="6.000000 3.992727" />
+    <ImageTarget name="bull" size="6.000000 6.000000" />
+    <ImageTarget name="dog" size="6.000000 3.992727" />
+    <ImageTarget name="elephantt" size="6.000000 3.978261" />
+    <ImageTarget name="horse" size="6.000000 3.992727" />
+    <ImageTarget name="edgar-nkc772r_qog-unsplash" size="6.000000 7.997897" />
+    <ImageTarget name="photo-1588470045344-4393b295297c" size="6.000000 4.000000" />
+  </Tracking>
+</QCARConfig>
